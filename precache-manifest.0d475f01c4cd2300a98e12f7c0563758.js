@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99e016393644b3c24710ec2ac3fb3055",
+    "revision": "d0330bee06b919f9a73eaa757f2f3983",
     "url": "/av-image-web/index.html"
   },
   {
-    "revision": "373c5e879d26d8941531",
-    "url": "/av-image-web/static/css/main.9ad17d66.chunk.css"
+    "revision": "5f6077a2820530a1d67f",
+    "url": "/av-image-web/static/css/main.9ec30df6.chunk.css"
   },
   {
     "revision": "0f0dad29076d78cc2e53",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/av-image-web/static/js/2.0c739371.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "373c5e879d26d8941531",
+    "revision": "5f6077a2820530a1d67f",
     "url": "/av-image-web/static/js/main.0aa105db.chunk.js"
   },
   {

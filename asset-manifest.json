@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/av-image-web/static/css/main.9ad17d66.chunk.css",
+    "main.css": "/av-image-web/static/css/main.9ec30df6.chunk.css",
     "main.js": "/av-image-web/static/js/main.0aa105db.chunk.js",
     "main.js.map": "/av-image-web/static/js/main.0aa105db.chunk.js.map",
     "runtime-main.js": "/av-image-web/static/js/runtime-main.439b2bc2.js",
@@ -8,15 +8,15 @@
     "static/js/2.0c739371.chunk.js": "/av-image-web/static/js/2.0c739371.chunk.js",
     "static/js/2.0c739371.chunk.js.map": "/av-image-web/static/js/2.0c739371.chunk.js.map",
     "index.html": "/av-image-web/index.html",
-    "precache-manifest.98dfbe8ad0fcf4b697a7de398abc5c7a.js": "/av-image-web/precache-manifest.98dfbe8ad0fcf4b697a7de398abc5c7a.js",
+    "precache-manifest.0d475f01c4cd2300a98e12f7c0563758.js": "/av-image-web/precache-manifest.0d475f01c4cd2300a98e12f7c0563758.js",
     "service-worker.js": "/av-image-web/service-worker.js",
-    "static/css/main.9ad17d66.chunk.css.map": "/av-image-web/static/css/main.9ad17d66.chunk.css.map",
+    "static/css/main.9ec30df6.chunk.css.map": "/av-image-web/static/css/main.9ec30df6.chunk.css.map",
     "static/js/2.0c739371.chunk.js.LICENSE.txt": "/av-image-web/static/js/2.0c739371.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.439b2bc2.js",
     "static/js/2.0c739371.chunk.js",
-    "static/css/main.9ad17d66.chunk.css",
+    "static/css/main.9ec30df6.chunk.css",
     "static/js/main.0aa105db.chunk.js"
   ]
 }
